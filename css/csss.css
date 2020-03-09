@@ -1,0 +1,144 @@
+.menu{
+    display: flex;
+    flex-direction: row;
+}
+body{
+	background:#f8f8f8;
+	color: #373737 !important
+}
+header, footer{
+	background: #fff !important;
+}
+footer .pull-left, footer .wpb_text_column{
+	font-size: 11px;
+  line-height: 15px;
+}
+.body_wrap, .page_wrap{
+	background: #f8f8f8 !important;
+}
+.vc_custom_1504001004464{
+    display: none;
+}
+.menu li{
+    margin: 0; padding: 0;
+    margin-right: 20px;
+}
+.menu li:before{
+    display: none !important;
+}
+.top_panel{
+	margin-bottom: 0 !important;
+}
+.services_page_title{
+	display: none !important;
+}
+.slick-slide{
+    margin: 0 10px;
+}
+.services_page_header{
+    display: none;
+}
+.menu{
+    margin-bottom: 60px !important;
+}
+.slider_width{
+    
+}
+.current-cpt_services-ancestor a{
+    color: #ff5a00 !important;
+}
+footer{
+	position: fixed !important;
+bottom: 0 !important;
+width: 100% !important;
+}
+.footer_wrap {
+    margin-top: 0 !important;
+	padding:10px 0 !important;
+}
+.contacts_wrapp{
+	border: 1px solid grey;
+}
+.current-cpt_services-ancestor a{
+    color: #ff5a00 !important;
+}
+.sc_layouts_logo img{
+	max-height: 100px !important;
+}
+header{
+	padding: 20px !important;
+}
+nav a{
+	   font-size: 14px !important;
+    font-weight: 100 !important;
+}
+nav a:hover span{
+	border-bottom: 2px solid #ff5a00 !important;
+}
+.sc_services_item_info:hover{
+	background: #ff5a00 !important;
+	color: #fff !important;
+	border: 1px solid #ff5a00 !important;
+}
+.sc_services_item_info:hover a{
+		color: #fff !important;
+}
+footer .sc_layouts_column_icons_position_left{
+	padding-right: 40px !important;
+}
+footer .pull-left{
+	padding-left: 30px !important;
+}
+.page_wrap{
+	background: #efefef !important;
+	padding: 0 !important;
+}
+
+a:hover span{
+	color: #373737 !important
+}
+.current-menu-item span{
+	color: #ff5a00  !important;
+}
+nav a:hover span{
+	padding-bottom: 10px !important;
+}
+.scheme_default .sc_layouts_menu_nav>li>a, .menu li a {
+    color: #373737 !important;
+	
+}
+.menu li a:hover{
+	color: #ff5a00  !important;
+}
+
+
+
+
+.post_featured a{
+	width: 100% !important;
+	height: 100% !important
+}
+.sc_services_item_info{
+	background: #fff !important;
+	transition: background 0.3s;
+}
+.sc_services_item:hover .sc_services_item_info{
+    background: #ff5a00 !important;
+    color: #fff !important;
+    border: 1px solid #ff5a00 !important;
+}
+.post_featured a:before{
+	display: none !important;
+}
+.post_featured .mask {
+	display: none !important;
+}
+
+
+
+
+.wpcf7-text, .wpcf7-textarea{
+	padding-left: 15px !important;
+	padding-right: 15px important;
+}
+
